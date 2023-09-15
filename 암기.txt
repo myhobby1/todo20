@@ -1,0 +1,13 @@
+오후 4:11 2023-09-15
+
+<head>
+  <title>HTML- 수업소개</title>  --->탭의 제목
+  <meta char set="utf-8"    ----->글자깨질때
+</head>
+<body>
+<h1>HTML</h1>
+*1: 타이틀과 메타는 head 안에 두어야 한다.
+*2: 본문은 body 안에 두어야 한다
+
+</body>
+  
