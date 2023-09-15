@@ -1,0 +1,13 @@
+오후 8:16 2023-09-15
+
+form
+
+<html>
+<body>
+<form acttion="http//url">
+<p>아이디: <input type"text" name></p>
+<p>비밀번호: <input type="password" name="pwd"></p>
+<input type="submit">
+</form>
+</body>
+</html>
